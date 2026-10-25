@@ -5,7 +5,7 @@ cask "badge-on-bar" do
   url "https://github.com/grahamotte/BadgeOnBar/releases/download/v#{version}/Badge-On-Bar-macos-#{version}.zip"
   name "Badge On Bar"
   desc "Mirror Dock badge counts in the menu bar"
-  homepage "https://badgeonbar.com/"
+  homepage "https://github.com/grahamotte/BadgeOnBar"
 
   livecheck do
     url :url
