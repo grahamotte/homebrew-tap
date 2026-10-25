@@ -1,0 +1,3 @@
+[tasks.test]
+description = "Check every cask with brew style"
+run = "brew style Casks"
