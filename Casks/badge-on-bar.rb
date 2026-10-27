@@ -1,6 +1,6 @@
 cask "badge-on-bar" do
-  version "0.6.1"
-  sha256 "861b84344d12724dcffae7cd0fcd9774b768dc2a5dcb1660a66a20f151d7eec0"
+  version "0.6.2"
+  sha256 "c050bd66a35a2c3c3ec7273ecb8542ef379c4710f758a86dca47ec685bd4a6ce"
 
   url "https://github.com/grahamotte/BadgeOnBar/releases/download/v#{version}/Badge-On-Bar-macos-#{version}.zip"
   name "Badge On Bar"
