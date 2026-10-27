@@ -1,6 +1,6 @@
 cask "sundial" do
-  version "0.3.1"
-  sha256 "b542b82b6c3db74f1530e908378e0d91b17d425ec01022b6610f7a5f9015fa82"
+  version "0.3.2"
+  sha256 "e8f3ec9151f70abdccc7ffc668be18f1b477fd810ce4612553550efe8579f3e3"
 
   url "https://github.com/grahamotte/Sundial/releases/download/v#{version}/Sundial-macos-#{version}.zip"
   name "Sundial"
