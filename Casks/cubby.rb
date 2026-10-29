@@ -1,10 +1,10 @@
 cask "cubby" do
-  version "0.4.0"
-  sha256 "d58429cbfaf37da05f85bf8e4eb6a14aa7aceeaf492ef5e17074b2619bbcad00"
+  version "0.5.0"
+  sha256 "0e835b3967f19567e4b53b685826dcb5a90aa45d0cfcc761fc93e66d529696ee"
 
   url "https://github.com/grahamotte/Cubby/releases/download/v#{version}/Cubby-macos-#{version}.zip"
   name "Cubby"
-  desc "Fast, simple file manager with list, icon, column, and gallery views"
+  desc "Fast, simple file manager with list, icon, and column views"
   homepage "https://github.com/grahamotte/Cubby"
 
   livecheck do
