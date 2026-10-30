@@ -1,6 +1,6 @@
 cask "freya-player" do
-  version "1.24.0"
-  sha256 "bf197a61274ff141af9da07f8274d3fba41a2d419545304fa6065981c6a9ff6a"
+  version "1.24.1"
+  sha256 "182e97e24ed7e3aa4dd108c1e313dcc0070907b20464266c60272f1e133d3a37"
 
   url "https://github.com/grahamotte/FreyaPlayer/releases/download/v#{version}/Freya-Player-macos-#{version}.zip"
   name "Freya Player"
