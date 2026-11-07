@@ -1,6 +1,6 @@
 cask "cubby" do
-  version "0.9.0"
-  sha256 "9454031c69c3d92e8e623851deae5b1b7cd71193bab4623063018b782b7d45c8"
+  version "0.10.0"
+  sha256 "e08ac47f5dd31e7489517586f5c51070c4746b5475dbe29d1e68613371676a62"
 
   url "https://github.com/grahamotte/Cubby/releases/download/v#{version}/Cubby-macos-#{version}.zip"
   name "Cubby"
